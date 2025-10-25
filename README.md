@@ -2,12 +2,15 @@
 An instruction manual for installing a holistic, fully offline, deep-learning accelerated neuroimaging server for Radiology Departments 
 
 
-##Introduction
+## Introduction
 
 
-##What it does
+## What it does
 
 
-##Is it right for us?
+## Is it right for us?
 
-##What you will need
+## What you will need
+
+
+#Installing the Base OS
